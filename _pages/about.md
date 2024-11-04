@@ -21,7 +21,7 @@ redirect_from:
 
 I am now a graduate student in Control Science and Engineering at the School of Automation and Intelligence, Beijing Jiaotong University.
 
-My research interest includes neural machine translation and computer vision. 
+My research interest includes robotics and computer vision. 
 
 
 # 🔥 News
