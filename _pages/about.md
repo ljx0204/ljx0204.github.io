@@ -52,6 +52,8 @@ My research interest includes robotics and computer vision.
 - *2022.09 - 2025.06 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2018.09 - 2022.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# !(.\images\xm.png) Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# Research Experience
+- *2023.10-present*, UAV Trajectory Planning and Tracking Control. 
+- *2022.09-2023.07*, Airport Runway Inspection Robot. 
+- *2021.07-2021.11*, Train Simulation and Demonstration Platform. 
+- *2020.06-2021.04*, Intelligent Food Delivery Robot.  \| [\[video\]](https://github.com/)
