@@ -53,7 +53,12 @@ My research interest includes robotics and computer vision.
 - *2018.09 - 2022.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Research Experience
-- *2023.10-present*, UAV Trajectory Planning and Tracking Control. 
-- *2022.09-2023.07*, Airport Runway Inspection Robot. 
-- *2021.07-2021.11*, Train Simulation and Demonstration Platform. 
-- *2020.06-2021.04*, Intelligent Food Delivery Robot.  \| [\[video\]](https://github.com/)
+- **2023.10-present**, UAV Trajectory Planning and Tracking Control  
+  Developed control algorithms for UAV trajectory optimization and tracking, focusing on stability and obstacle avoidance in dynamic environments.
+- **2022.09-2023.07**, Airport Runway Inspection Robot  
+  Designed and implemented a robotic system to inspect airport runways, integrating sensors and real-time data processing for efficient defect detection.
+- **2021.07-2021.11**, Train Simulation and Demonstration Platform  
+  Built a simulation platform for train operations, demonstrating safety protocols, train dynamics, and energy consumption for educational purposes.
+- **2020.06-2021.04**, Intelligent Food Delivery Robot \| [\[video\]](https://github.com/)  
+  Created an autonomous food delivery robot capable of indoor navigation, obstacle detection, and interaction with customers, contributing to intelligent service applications.
+
