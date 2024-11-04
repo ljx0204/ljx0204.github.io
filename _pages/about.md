@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current graduate student in Control Science and Engineering at the School of Automation and Intelligence, Beijing Jiaotong University.
+# Welcome!
+
+I am now a graduate student in Control Science and Engineering at the School of Automation and Intelligence, Beijing Jiaotong University.
 
 My research interest includes neural machine translation and computer vision. 
 
