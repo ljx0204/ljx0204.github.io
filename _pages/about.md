@@ -19,9 +19,7 @@ redirect_from:
 
 # About me
 
-I am now a graduate student in Control Science and Engineering at the School of Automation and Intelligence, Beijing Jiaotong University.
-
-My research interest includes robotics and computer vision. 
+I am a graduate student majoring in Control Science and Engineering at Beijing Jiaotong University. My research focuses on robotics, particularly in UAV trajectory planning, multi-robot coordination, coverage path planning, and dense crowd pedestrian tracking.
 
 
 # 👩‍🎓 Educations
