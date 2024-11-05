@@ -49,9 +49,8 @@ I am a graduate student majoring in Control Science and Engineering at Beijing J
 
 # 📖 Publications 
 
-- Jiaxin Li, Taogang Hou*, Xuan Pei, Hao Wang, Tianhui Liu, " A spiral coverage path planning algorithm for non-omnidirectional robots" submitted to Journal of Field Robotics (under revision).
-- Jiaxin Li, Xuan Pei, Hongjie Liu, Shuai Su, Tao Tang, Taogang Hou, "A Novel Train Operation Simulation System Based on Intelligent Mobile Robot and ROS Communication Network," 34th Chinese Control and
-Decision Conference (CCDC). IEEE, 2022: 97-102.
+- Jiaxin Li, Taogang Hou*, Xuan Pei, Hao Wang, Tianhui Liu, " A spiral coverage path planning algorithm for non-omnidirectional robots" submitted to *Journal of Field Robotics* (under revision).
+- Jiaxin Li, Xuan Pei, Hongjie Liu, Shuai Su, Tao Tang, Taogang Hou, "A Novel Train Operation Simulation System Based on Intelligent Mobile Robot and ROS Communication Network," *34th Chinese Control and Decision Conference (CCDC)*. IEEE, 2022: 97-102.
 
 # 🏅 Honors and Awards
 - *2023* Second Prize in the North China Division of the 18th China Graduate Electronics Design Competition 
