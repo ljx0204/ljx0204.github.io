@@ -25,8 +25,8 @@ My research interest includes robotics and computer vision.
 
 
 # 👩‍🎓 Educations
-- *2022.09 - 2025.06 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2018.09 - 2022.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - present*, Beijing Jiaotong University, School of Automation and Intelligence, Beijing, China. 
+- *2018.09 - 2022.06*, Beijing Jiaotong University, School of Electronics and Information Engineering, Beijing, China. 
 
 
 # 🗃️ Research Experience
