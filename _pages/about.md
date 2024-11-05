@@ -39,6 +39,7 @@ My research interest includes robotics and computer vision.
 - **2020.06 - 2021.04**, **Intelligent Food Delivery Robot** 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/ljx0204/ljx0204.github.io/blob/vedios/train.mp4)
 [Watch the video](https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4)
+[![Watch the video](https://img.youtube.com/vi/your_video_id/maxresdefault.jpg)](https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4)
 
 
 
