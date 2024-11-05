@@ -38,6 +38,7 @@ My research interest includes robotics and computer vision.
   Built a simulation platform for train operations, demonstrating safety protocols, train dynamics, and energy consumption for educational purposes.
 - **2020.06 - 2021.04**, **Intelligent Food Delivery Robot** 
   [![Watch the video]]([https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/deliveryrobot.mp4])
+  [Watch the video](https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/deliveryrobot.mp4)
 
 
 
