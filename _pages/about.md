@@ -41,6 +41,7 @@ My research interest includes robotics and computer vision.
   <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4])
 
 
 
