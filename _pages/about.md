@@ -42,7 +42,7 @@ My research interest includes robotics and computer vision.
 
 # 📖 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/communication.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/communication.png' alt="" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Novel Train Operation Simulation System Based on Intelligent Mobile Robot and ROS Communication Network]
@@ -50,6 +50,7 @@ My research interest includes robotics and computer vision.
 **Jiaxin Li**, Xuan Pei, Hongjie Liu, Shuai Su, Tao Tang, Taogang Hou
 
 - With the development of train operation control technology, the safety and reliability of many theories and signal equipment related to train control need to be improved. However, there are safety problems in verifying the safety and reliability of the train control system on the railway, and many human resources and material resources will be wasted. Therefore, a semi-physical train operation control theory simulation verification method based on the intelligent mobile robot is proposed in this paper. Based on the theory of mobile robot technology and autonomous train operation technology, we have established a communication network to simulate the train operation environment and built a complete simulation demonstration test system. The system can verify the autonomous theory and key technologies of single-vehicle and multi-vehicle train control systems. This method has the advantages of saving economic costs and being safer for maintenance
+  
 <!--[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
