@@ -42,7 +42,7 @@ My research interest includes robotics and computer vision.
 
 # 📖 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/communication.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/communication.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Novel Train Operation Simulation System Based on Intelligent Mobile Robot and ROS Communication Network]
