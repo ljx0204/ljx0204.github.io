@@ -47,7 +47,10 @@ My research interest includes robotics and computer vision.
 Decision Conference (CCDC). IEEE, 2022: 97-102.
 
 # 🏅 Honors and Awards
-- *2023.08* Second Prize in the North China Division of the 18th China Graduate Electronics Design Competition 
-- *2023.04* Bronze Award at the National Competition of the 8th China International 'Internet Plus' College Students Innovation and Entrepreneurship Competition 
+- *2023* Second Prize in the North China Division of the 18th China Graduate Electronics Design Competition 
+- *2023* Bronze Award at the National Competition of the 8th China International 'Internet Plus' College Students Innovation and Entrepreneurship Competition
+- *2023* Second Prize at the National Level of the 13th 'Challenge Cup' China College Students Entrepreneurship Plan Competition
+- *2023* Second Prize in the 2023 'Challenge Cup' Extracurricular Academic and Technological Works Competition for Capital College Students
+- *2022* Outstanding Undergraduate Thesis
 
 
