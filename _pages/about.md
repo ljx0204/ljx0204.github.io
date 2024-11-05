@@ -36,12 +36,12 @@ My research interest includes robotics and computer vision.
   Designed and implemented a robotic system to inspect airport runways, integrating sensors and real-time data processing for efficient defect detection.
 - **2021.07 - 2021.11**, **Train Simulation and Demonstration Platform**  
   Built a simulation platform for train operations, demonstrating safety protocols, train dynamics, and energy consumption for educational purposes.
-- **2020.06 - 2021.04**, **Intelligent Food Delivery Robot** 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/ljx0204/ljx0204.github.io/blob/vedios/train.mp4)
-[Watch the video](https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4)
-[![Watch the video](https://img.youtube.com/vi/your_video_id/maxresdefault.jpg)](https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4)
-
-
+- **2020.06 - 2021.04**, **Intelligent Food Delivery Robot**
+<video width="600" controls>
+  <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/ljx0204/ljx0204.github.io/blob/vedios/deliveryrobot.mp4)
 
 
 # 📖 Publications 
