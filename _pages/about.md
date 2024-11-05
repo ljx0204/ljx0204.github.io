@@ -36,7 +36,7 @@ My research interest includes robotics and computer vision.
   Your browser does not support the video tag.
 </video>
 - **2022.09 - 2023.07**, **Airport Runway Inspection Robot**
-<img src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/inspectionrobot.jpg" alt="Example Image" width="600">
+  <img src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/inspectionrobot.jpg" alt="Example Image" width="600">
 - **2021.07 - 2021.11**, **Train Simulation and Demonstration Platform**
 <video width="600" controls>
   <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4" type="video/mp4">
