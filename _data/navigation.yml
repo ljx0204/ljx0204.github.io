@@ -18,7 +18,8 @@ main:
   - title: "CV"
     #url: "https://ljx0204.github.io/folder/CV.pdf#toolbar=0"
     #<iframe src="https://ljx0204.github.io/folder/CV.pdf" width="100%" height="600px"></iframe>
-    url: "https://ljx0204.github.io/folder/CV.pdf#toolbar=0"
+    url: "https://ljx0204.github.io/folder/CV.pdf"
+    target: "_blank"  # 仅为需要在新标签页打开的链接添加 target 字段
 
 
 
