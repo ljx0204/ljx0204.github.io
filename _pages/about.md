@@ -28,19 +28,19 @@ I am a graduate student majoring in Control Science and Engineering at Beijing J
 
 
 # 🗃️ Research Experience
-- **2023.10 - Present**, **UAV Trajectory Planning and Tracking Control**  
+- **2023.10 - Present**, **UAV Trajectory Planning and Tracking Control**           *Principal Investigator*
   <video width="600" controls>
     <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/perching.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-- **2022.09 - 2023.07**, **Airport Runway Inspection Robot**
+- **2022.09 - 2023.07**, **Airport Runway Inspection Robot**                        *Principal Investigator*
   ![Example Image](https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/inspectionrobot.png)
-- **2021.07 - 2021.11**, **Train Simulation and Demonstration Platform**
+- **2021.07 - 2021.11**, **Train Simulation and Demonstration Platform**            *Principal Investigator*      
   <video width="600" controls>
     <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-- **2020.06 - 2021.04**, **Intelligent Food Delivery Robot**
+- **2020.06 - 2021.04**, **Intelligent Food Delivery Robot**         *Team leader of undergraduate students*
   <video width="600" controls>
     <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/deliveryrobot.mp4" type="video/mp4">
     Your browser does not support the video tag.
