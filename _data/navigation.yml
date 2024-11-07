@@ -21,6 +21,12 @@ main:
     url: "https://ljx0204.github.io/folder/CV.pdf"
     target: "_blank"  # 仅为需要在新标签页打开的链接添加 target 字段
 
+    {% for link in site.data.navigation.main %}
+      <a href="{{ link.url }}" target="{{ link.target | default: '_self' }}">
+        {{ link.title }}
+      </a>
+    {% endfor %}
+
 
 
  # - title: "Internships"
