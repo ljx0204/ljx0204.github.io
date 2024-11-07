@@ -49,8 +49,11 @@ I am a graduate student majoring in Control Science and Engineering at Beijing J
 
 # 📖 Publications 
 
-- Jiaxin Li, Taogang Hou\*, Xuan Pei, Hao Wang, Tianhui Liu, " A spiral coverage path planning algorithm for non-omnidirectional robots" submitted to *Journal of Field Robotics* (under revision).
-- Jiaxin Li, Xuan Pei, Hongjie Liu, Shuai Su, Tao Tang, Taogang Hou, "A Novel Train Operation Simulation System Based on Intelligent Mobile Robot and ROS Communication Network," *34th Chinese Control and Decision Conference (CCDC)*. IEEE, 2022: 97-102.
+- **Jiaxin Li**, Taogang Hou\*, Xuan Pei, Hao Wang, Tianhui Liu, " A spiral coverage path planning algorithm for non-omnidirectional robots" submitted to *Journal of Field Robotics* (under revision).
+- **Jiaxin Li**, Xuan Pei, Hongjie Liu, Shuai Su, Tao Tang, Taogang Hou, "A Novel Train Operation Simulation System Based on Intelligent Mobile Robot and ROS Communication Network," *34th Chinese Control and Decision Conference (CCDC)*. IEEE, 2022: 97-102.
+- Shijie Zhang, Fan Sang, **Liaxin Li**, Tao Tang, Taogang Hou, "ERCM: bionic event-based registration method based on contrast minimum for intelligent unmanned systems," *37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)*. IEEE, 2022: 734-739.
+- Shijie Zhang, Zhongquan Liu, Hao Wang, Fan Sang, **Jiaxin Li**, Yuxuan Guo, "RPAS: A Refined Positioning and Analysis System Based on Aerial Platform for Swimming Scenes," *12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)*. IEEE, 2022: 688-693.
+- Hao Wang, Xuan Pei, **Jiaxin Li**, Shijie Zhang, Tianmiao Wang, Taogang Hou. "Location estimation method based on circular target by uav’s monocular," *5th Asian Conference on Artificial Intelligence Technology (ACAIT)*. IEEE, 2021: 637-642.
 
 # 🏅 Honors and Awards
 - *2023* Second Prize in the North China Division of the 18th China Graduate Electronics Design Competition 
