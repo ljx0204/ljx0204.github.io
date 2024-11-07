@@ -17,7 +17,7 @@ main:
 
   - title: "CV"
     #url: "/#-invited-talks"
-    url: "https://ljx0204.github.io/folder/CV.pdf"
+    <iframe src="https://ljx0204.github.io/folder/CV.pdf" width="100%" height="600px"></iframe>
 
  # - title: "Internships"
  #   url: "/#-internships"
