@@ -62,4 +62,6 @@ I am a graduate student majoring in Control Science and Engineering at Beijing J
 - *2023* Second Prize in the 2023 'Challenge Cup' Extracurricular Academic and Technological Works Competition for Capital College Students
 - *2022* Outstanding Undergraduate Thesis
 
+# CV
+<iframe src="https://docs.google.com/viewer?url=https://github.com/ljx0204/ljx0204.github.io/raw/main/folder/CV.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
 
