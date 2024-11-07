@@ -14,6 +14,13 @@
 <link rel="stylesheet" href="assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+{% for link in site.data.main %}
+  <a href="{{ link.url }}" target="{{ link.target | default: '_self' }}">
+    {{ link.title }}
+  </a>
+{% endfor %}
+
 <head>
   <base target="_blank">
 </head>
