@@ -28,14 +28,18 @@ I am a graduate student majoring in Control Science and Engineering at Beijing J
 
 
 # 🗃️ Research Experience
-- **2023.10 - Present**, **UAV Trajectory Planning and Tracking Control**           *Principal Investigator*
+- **2023.10 - Present**, **UAV Trajectory Planning and Tracking Control**           *Project Leader*
   <video width="600" controls>
     <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/perching.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-- **2022.09 - 2023.07**, **Airport Runway Inspection Robot**                        *Principal Investigator*
+- **2022.09 - 2023.07**, **Airport Runway Inspection Robot**                        *Project Leader*
   ![Example Image](https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/inspectionrobot.png)
-- **2021.07 - 2021.11**, **Train Simulation and Demonstration Platform**            *Principal Investigator*      
+  <video width="600" controls>
+    <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/airport.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+- **2021.07 - 2021.11**, **Train Simulation and Demonstration Platform**            *Project Leader*      
   <video width="600" controls>
     <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/train.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -49,13 +53,14 @@ I am a graduate student majoring in Control Science and Engineering at Beijing J
 
 # 📖 Publications 
 
-- **Jiaxin Li**, Taogang Hou\*, Xuan Pei, Hao Wang, Tianhui Liu, "A spiral coverage path planning algorithm for non-omnidirectional robots" submitted to *Journal of Field Robotics* (under revision).
+- **Jiaxin Li**, Taogang Hou\*, Xuan Pei, Hao Wang, Tianhui Liu, "A spiral coverage path planning algorithm for non-omnidirectional robots" submitted to *Journal of Field Robotics* (Accepted on January 5th, 2025).
 - **Jiaxin Li**, Xuan Pei, Hongjie Liu, Shuai Su, Tao Tang, Taogang Hou, "A Novel Train Operation Simulation System Based on Intelligent Mobile Robot and ROS Communication Network," *34th Chinese Control and Decision Conference (CCDC)*. IEEE, 2022: 97-102.
 - Shijie Zhang, Fan Sang, **Jiaxin Li**, Tao Tang, Taogang Hou, "ERCM: bionic event-based registration method based on contrast minimum for intelligent unmanned systems," *37th Youth Academic Annual Conference of Chinese Association of Automation (YAC)*. IEEE, 2022: 734-739.
 - Shijie Zhang, Zhongquan Liu, Hao Wang, Fan Sang, **Jiaxin Li**, Yuxuan Guo, "RPAS: A Refined Positioning and Analysis System Based on Aerial Platform for Swimming Scenes," *12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)*. IEEE, 2022: 688-693.
 - Hao Wang, Xuan Pei, **Jiaxin Li**, Shijie Zhang, Tianmiao Wang, Taogang Hou. "Location estimation method based on circular target by uav’s monocular," *5th Asian Conference on Artificial Intelligence Technology (ACAIT)*. IEEE, 2021: 637-642.
 
 # 🏅 Honors and Awards
+- *2022-2023* First class academic scholarship
 - *2023* Second Prize in the North China Division of the 18th China Graduate Electronics Design Competition 
 - *2023* Bronze Award at the National Competition of the 8th China International 'Internet Plus' College Students Innovation and Entrepreneurship Competition
 - *2023* Second Prize at the National Level of the 13th 'Challenge Cup' China College Students Entrepreneurship Plan Competition
