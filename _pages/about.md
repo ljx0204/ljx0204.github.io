@@ -35,7 +35,7 @@ I am a graduate student majoring in Control Science and Engineering at Beijing J
   </video>
 - **2022.09 - 2023.07**, **Airport Runway Inspection Robot**                        *Project Leader*
   ![Example Image](https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/inspectionrobot.png)
-  <video width="800" controls>
+  <video width="700" controls>
     <source src="https://github.com/ljx0204/ljx0204.github.io/raw/main/vedios/airport.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
